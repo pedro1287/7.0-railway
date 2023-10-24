@@ -243,7 +243,7 @@ def onmessage(update,bot:ObigramClient):
         tl_admin_user = os.environ.get('administrador')
         
         #set
-        tl_admin_user = 'Pjsr55'
+        tl_admin_user = 'JAGB2021'
 
         jdb = JsonDatabase('database')
         jdb.check_create()
